@@ -1,0 +1,28 @@
+# General Settings
+project_name: "ProxyManager" # Name of the project.
+database_url: "sqlite+aiosqlite:///proxies.db" # Database connection string.
+output_dir: "output" # Directory to save output files.
+
+# Concurrency Settings
+concurrency_limit: 200 # Maximum number of concurrent tasks.
+
+# Tester Settings
+tcp_connect_timeout: 5 # Timeout for TCP connections when testing proxies.
+http_request_timeout: 20 # Timeout for HTTP requests when testing proxies.
+speed_test_url: "https://www.google.com/generate_204" # URL used for speed testing proxies.
+speed_test_bytes_limit: 524288 # Number of bytes to download during speed test to measure speed.
+ip_check_url: "https://www.google.com" # URL used to check if a proxy is alive.
+check_timeout_seconds: 10 # Timeout for checking if a proxy is alive.
+scoring_weights: # Weights for scoring proxies based on different criteria.
+  latency: 0.50
+  speed: 0.45
+  stability: 0.05
+
+# Collector Settings
+scraper_headers:
+  User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+# Optional: A proxy to use for the initial collection of proxy lists.
+# Useful if the source websites (e.g., proxyscrape) are blocked.
+# Format: "socks5://127.0.0.1:10810" or "http://127.0.0.1:10811"
+# Leave empty to connect directly.
+collector_proxy: "socks5://127.0.0.1:10810" # Proxy for collecting proxy lists.
