@@ -1,6 +1,6 @@
 <!-- English Version -->
 <div align="center">
-  <img src="./assets/banner.jpg" alt="ProxyManager Banner" width="600"/>
+  <img src="./assets/banner.jpg" alt="ProxyManager Banner" width="900"/>
   <h1>ProxyManager V2</h1>
   <p><strong>An intelligent, asynchronous, and database-driven proxy management tool.</strong></p>
   <p>
@@ -37,10 +37,10 @@
 
 <div align="center">
   <p><strong>Main Menu Interface</strong></p>
-  <img src="./assets/main-menu.png" alt="ProxyManager Main Menu" width="700"/>
+  <img src="./assets/main-menu.png" alt="ProxyManager Main Menu" width="800"/>
   <br/><br/>
   <p><strong>Example Output Files</strong></p>
-  <img src="./assets/output-files.png" alt="ProxyManager Output Files" width="500"/>
+  <img src="./assets/output-files.png" alt="ProxyManager Output Files" width="800"/>
 </div>
 
 ### 🛠️ Installation & Setup
@@ -139,10 +139,10 @@ Need a custom version of this tool, a different Python project, or want to colla
 
 <div align="center">
   <p><strong>رابط منوی اصلی</strong></p>
-  <img src="./assets/main-menu.png" alt="منوی اصلی ProxyManager" width="700"/>
+  <img src="./assets/main-menu.png" alt="منوی اصلی ProxyManager" width="800"/>
   <br/><br/>
   <p><strong>نمونه فایل‌های خروجی</strong></p>
-  <img src="./assets/output-files.png" alt="فایل‌های خروجی ProxyManager" width="500"/>
+  <img src="./assets/output-files.png" alt="فایل‌های خروجی ProxyManager" width="800"/>
 </div>
 
 ### 🛠️ نصب و راه‌اندازی
