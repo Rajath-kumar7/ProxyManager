@@ -86,7 +86,7 @@ Before running, you can customize behavior by editing the `config.yaml` file. Ke
 Run the application to launch the main menu:
 
 ```bash
-python -m proxymanager
+python -m proxymanager.cli
 ```
 
 This will launch an interactive menu where you can choose from the following options:
@@ -188,7 +188,7 @@ pip install -r requirements.txt
 برنامه را با دستور زیر اجرا کنید تا منوی اصلی نمایش داده شود:
 
 ```bash
-python -m proxymanager
+python -m proxymanager.cli
 ```
 
 این دستور یک منوی تعاملی را اجرا می‌کند که در آن می‌توانید گزینه‌های زیر را انتخاب کنید:
