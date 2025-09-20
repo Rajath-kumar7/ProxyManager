@@ -88,6 +88,10 @@ Run the application to launch the main menu:
 ```bash
 python -m proxymanager.cli
 ```
+or
+```bash
+python -m proxymanager
+```
 
 This will launch an interactive menu where you can choose from the following options:
 
@@ -189,6 +193,10 @@ pip install -r requirements.txt
 
 ```bash
 python -m proxymanager.cli
+```
+یا
+```bash
+python -m proxymanager
 ```
 
 این دستور یک منوی تعاملی را اجرا می‌کند که در آن می‌توانید گزینه‌های زیر را انتخاب کنید:
